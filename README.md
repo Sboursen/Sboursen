@@ -1,6 +1,6 @@
 <h1 style="font-size: 32px; text-align:center;">
 <span align="center" style="font-size: 16px;">Hello Fellow Devs! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></span> 
-<hr style="margin-bottom: 0; border:none;"/>
+<hr style="margin-bottom: 0; border:none; width:25%;"/>
 I'm Soufiane Boursen
 </h1>
 
