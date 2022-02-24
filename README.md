@@ -10,17 +10,6 @@ I'm Soufiane Boursen
 
 </div>
 
-<div style="margin-top:24px; display:flex; gap:12px; justify-content:center;">
-	<a  href="mailto:dev.sboursen@gmail.com">
-  <img style="display:inline-block; border-radius:6px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-	<a href="https://github.com/Sboursen">
-  <img  style="display:inline-block; border-radius:6px" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-	<a href="https://www.linkedin.com/in/sboursen/">
-  <img style="display:inline-block; border-radius:6px"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
 
 <div style="text-align:center; margin-top:12px">
 
@@ -40,6 +29,18 @@ I'm Soufiane Boursen
 :star: WEB2/3
 
 - ✨ I'm also open to new remote opportunities.
+
+<div style="margin-top:24px; display:flex; gap:12px; justify-content:center;">
+	<a  href="mailto:dev.sboursen@gmail.com">
+  <img style="display:inline-block; border-radius:6px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+	<a href="https://github.com/Sboursen">
+  <img  style="display:inline-block; border-radius:6px" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+	<a href="https://www.linkedin.com/in/sboursen/">
+  <img style="display:inline-block; border-radius:6px"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
   
 <br style="margin-top:12px;">
 <hr>
