@@ -61,5 +61,5 @@ My name is Soufiane Boursen and I'm a Full-stack web developer. I'm currently lo
 <br/>
 <hr/>
 <h4 style="font-size: 16px; font-weight: bold; text-align:center; width:100%;">
-Please checkout out my projects and feel free to contact me 👇
+Please checkout out my projects and feel free to contact me <img src="./point-down.gif" width="20px" height="26px" />
 </h4>
