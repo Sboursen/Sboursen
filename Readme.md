@@ -8,7 +8,7 @@ My name is Soufiane Boursen and I'm a Full-stack web developer. I'm currently lo
 - 🔭 &nbsp;I’m working on something cool :wink:.
   
   
-- 💬 &nbsp;Ask me about anything related to Javascript,Ruby, React or Rails.
+- 💬 &nbsp;Ask me about anything related to Javascript, Ruby, React or Rails.
   
 - ✨ &nbsp;Learn more about my projects in  [personal website](https://sboursen.github.io/My-portfolio/).
 
