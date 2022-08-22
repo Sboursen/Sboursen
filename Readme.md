@@ -1,7 +1,7 @@
 <img style="display: block; width: 100%; margin: 20px auto;" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36B37E&center=true&vCenter=true&width=520&lines=Full-Stack+developer;R%26D+Engineer;Machine+learning+enthusiast" alt="Typing SVG" />
 
 
-# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px" height="26px" />
+# Hello! <img src="./wave.gif" width="26px" height="26px" />
 
 My name is Soufiane Boursen and I'm a Full-stack web developer. I'm currently looking for a new opportunity with an innovative and fast-growing team where I can make an impact.
 
