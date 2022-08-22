@@ -1,6 +1,7 @@
-<a href="https://git.io/typing-svg" style="display: block;" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36B37E&center=true&vCenter=true&width=520&lines=Full-Stack+developer;R%26D+Engineer;Machine+learning+enthusiast" alt="Typing SVG" /></a>
+<img style="display: block; width: 100%; margin: 20px auto;" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36B37E&center=true&vCenter=true&width=520&lines=Full-Stack+developer;R%26D+Engineer;Machine+learning+enthusiast" alt="Typing SVG" />
 
-# Hello, fellow Dev! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px" height="26px" />
+
+# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px" height="26px" />
 
 My name is Soufiane Boursen and I'm a Full-stack web developer. I'm currently looking for a new opportunity with an innovative and fast-growing team where I can make an impact.
 
@@ -50,11 +51,12 @@ My name is Soufiane Boursen and I'm a Full-stack web developer. I'm currently lo
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Sboursen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sboursen&hide=html,css,Jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
-</a>
-<a href="https://github.com/Sboursen">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sboursen&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Soufiane's GitHub Stats" />
 </a>
+<a href="https://github.com/Sboursen">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sboursen&hide=html,css,Jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+
 
 <br/>
 <hr/>
