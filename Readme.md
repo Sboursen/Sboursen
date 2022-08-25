@@ -23,6 +23,9 @@ My name is Soufiane Boursen and I'm a Full-stack web developer. I'm currently lo
 [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/sboursen)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sboursen_dev)
 
+## 🏆 Algorithms & Data Structures
+
+[![CodeWars user sboursen](https://www.codewars.com/users/sboursen/badges/large)](https://www.codewars.com/users/sboursen)
 
 ## ⚒️ Technologies & Tools
 
@@ -56,7 +59,6 @@ My name is Soufiane Boursen and I'm a Full-stack web developer. I'm currently lo
 <a href="https://github.com/Sboursen">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sboursen&hide=html,css,Jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-
 
 <br/>
 <hr/>
