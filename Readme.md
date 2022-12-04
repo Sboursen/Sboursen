@@ -3,7 +3,7 @@
 
 # Hello! <img src="./wave.gif" width="26px" height="26px" />
 
-My name is Soufiane Boursen and I'm a Full-stack web developer. I'm currently looking for a new opportunity with an innovative and fast-growing team where I can make an impact.
+My name is Soufiane Boursen and I'm a Software Engineer. I'm currently looking for a new opportunity with an innovative and fast-growing team where I can make an impact.
 
 - 🔭 &nbsp;I’m working on something cool :wink:.
   
@@ -12,7 +12,7 @@ My name is Soufiane Boursen and I'm a Full-stack web developer. I'm currently lo
   
 - ✨ &nbsp;Learn more about my projects in 👉 [my personal website](https://sboursen.github.io/My-portfolio/).
 
-- 🌱 &nbsp;I’m learning learning TypeScript and Node.js.
+- 🌱 &nbsp;I’m learning learning Golang.
   
 - ⚡ &nbsp;Fun fact: I :heart: Audiobooks and PC Gaming.
 
