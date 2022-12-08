@@ -1,4 +1,4 @@
-<img style="width:100%;" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=42&pause=1000&color=36B37E&center=true&vCenter=true&width=800&height=100&lines=Software+Engineer;Clean+Coder;Machine+Learning+Enthousiast" alt="Typing SVG" />
+<img style="width:100%;" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=42&pause=1000&color=36B37E&center=true&vCenter=true&width=1200&height=100&lines=Software+Engineer;Clean+Coder;Machine+Learning+Enthusiast" alt="Typing SVG" />
 
 
 # Hello! <img src="./wave.gif" width="26px" height="26px" />
