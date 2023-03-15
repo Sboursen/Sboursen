@@ -3,18 +3,17 @@
 
 # Hello! <img src="./wave.gif" width="26px" height="26px" />
 
-My name is Soufiane Boursen and I'm a Software Engineer. I'm currently looking for a new opportunity with an innovative and fast-growing team where I can make an impact.
+My name is Soufiane Boursen and I'm a Software Engineer. I'm currently collaborating with SciNote to to help build and maintain the next gen Electronic Lab Notebook.
 
-- 🔭 &nbsp;I’m working on something cool :wink:.
-  
-  
+- :octocat: [my professional GitHub](https://github.com/sboursen-scinote) 
+
 - 💬 &nbsp;Ask me about anything related to Javascript, Ruby, React or Rails.
   
 - ✨ &nbsp;Learn more about my projects in 👉 [my personal website](https://sboursen.github.io/My-portfolio/).
 
-- 🌱 &nbsp;I’m learning learning Golang.
+- 🌱 &nbsp;I’m deepening my knowledge of VUE JS and Ruby on Rails.
   
-- ⚡ &nbsp;Fun fact: I :heart: Audiobooks and PC Gaming.
+- ⚡ &nbsp;Fun fact: I :heart: Audiobooks and XR apps.
 
   
 
