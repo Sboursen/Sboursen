@@ -1,66 +1,64 @@
-<img style="width:100%;" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=42&pause=1000&color=36B37E&center=true&vCenter=true&width=1200&height=100&lines=Software+Engineer;Clean+Coder;Machine+Learning+Enthusiast" alt="Typing SVG" />
+<!-- ✨ Animated headline -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36B37E&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Cloud+%26+AI+Engineering;Continuous+Learning" alt="Typing SVG" />
+  </a>
+</p>
 
+---
 
-# Hello!
+### 👋 Hello, World!
 
-My name is Soufiane Boursen and I'm a Software Engineer. I'm currently collaborating with SciNote to help build and maintain the next-gen Electronic Lab Notebook.
+I'm **Soufiane Boursen**, a Full-Stack Developer from **Morocco** who loves building performant, secure, and scalable products at the intersection of web, cloud & AI.
 
-- :octocat: [my professional GitHub](https://github.com/sboursen-scinote) 
+- 💻  **Rails · Vue 3 · PostgreSQL · Redis**
+- ☁️  Prototyping **AI & cloud** solutions (OpenAI, LangChain, AWS)
+- 🔐  Helped deliver FedRAMP-ready features for an ELN platform (10 K+ users)
+- 🚀  Passionate about **clean architecture**, **testing**, and **DX**
 
-- 💬 &nbsp;Ask me about anything related to Javascript, Ruby, React or Rails.
-  
-- ✨ &nbsp;Learn more about my projects in 👉 [my personal website](https://sboursen.github.io/My-portfolio/).
+> _“Clean code. Clear thinking. Continuous growth.”_
 
-- 🌱 &nbsp;I’m deepening my knowledge of VUE JS and Ruby on Rails.
-  
-- ⚡ &nbsp;Fun fact: I :heart: Audiobooks and XR apps.
+---
 
-  
+### 🚀 Recent Highlights
+- 🔍  Reduced inventory-search latency from 12 s → 8 s with Redis + PostgreSQL
+- 📦  Shipped multilingual Shopify stock-sync microservice (Rails + Sidekiq)
+- 🎧  Building a local-first, voice-enabled AI assistant with Ollama + Rails
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](s.boursen@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sboursen/)
-[![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/sboursen)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sboursen_dev)
+---
 
-## 🏆 Algorithms & Data Structures
+### 🛠️ Tech Stack
+<details>
+  <summary><strong>🛠️ Core Tech Stack (click)</strong></summary>
 
-[![CodeWars user sboursen](https://www.codewars.com/users/sboursen/badges/large)](https://www.codewars.com/users/sboursen)
+  Rails · Vue 3 · PostgreSQL · Redis · AWS · Docker · LangChain
+</details>
 
-## ⚒️ Technologies & Tools
+---
 
-![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Tailwind%20CSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tesing-Jest-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Ruby%20on%20Rails-informational?style=flat&logo=ruby-on-rails&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JWT-informational?style=flat&logo=jsonwebtokens&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tesing-Rspec-informational?style=flat&logo=rspec&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Docs-RSwag-informational?style=flat&logo=swagger&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+### 🎯 Passions & Fun Facts
+<details>
+  <summary><strong>🎯 Passions & Fun Facts (click)</strong></summary>
 
+  ♟️ **Chess enthusiast** — currently sharpening my Najdorf  
+  🎧 **Audiobook addict** — ~40 titles/year, mostly tech & sci-fi
+</details>
 
-## &#x1f4c8; GitHub Stats
+---
 
-<a href="https://github.com/Sboursen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sboursen&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Soufiane's GitHub Stats" />
-</a>
-<a href="https://github.com/Sboursen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sboursen&hide=html,css,Jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+### 📬 Find Me Online
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sboursen/)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sboursen)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.sboursen@gmail.com)
 
-<br/>
-<hr/>
-<h4 style="font-size: 16px; font-weight: bold; text-align:center; width:100%;">
-Please checkout out my projects and feel free to contact me <img src="./point-down.gif" width="20px" height="26px" />
-</h4>
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sboursen&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=36B37E&icon_color=36B37E&text_color=ffffff" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sboursen&layout=compact&hide=html,css,Jupyter%20notebook&bg_color=00000000&title_color=36B37E&text_color=ffffff" height="180"/>
+</p>
+
+---
+
+> ⛏ Built with passion · Fueled by curiosity · Open to collaborations!
