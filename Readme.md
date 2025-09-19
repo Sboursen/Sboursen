@@ -13,7 +13,7 @@ I'm **Soufiane Boursen**, a Full-Stack Developer from **Morocco** who loves buil
 
 - 💻  **Rails · Vue 3 · PostgreSQL · Redis**
 - ☁️  Prototyping **AI & cloud** solutions (OpenAI, LangChain, AWS)
-- 🔐  Helped deliver FedRAMP-ready features for an ELN platform (10 K+ users)
+- 🔐  Helped deliver enterprise-scale features for 10 K+ users
 - 🚀  Passionate about **clean architecture**, **testing**, and **DX**
 
 > _“Clean code. Clear thinking. Continuous growth.”_
