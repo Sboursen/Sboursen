@@ -9,7 +9,7 @@
 
 ### 👋 Hello, World!
 
-I'm **Soufiane Boursen**, a Full-Stack Developer from **Morocco** who loves building performant, secure, and scalable products at the intersection of web, cloud & AI.
+I'm **Soufiane**, a Full-Stack Developer from **Morocco** who loves building performant, secure, and scalable products at the intersection of web, cloud & AI.
 
 - 💻  **Rails · Vue 3 · PostgreSQL · Redis**
 - ☁️  Prototyping **AI & cloud** solutions (OpenAI, LangChain, AWS)
