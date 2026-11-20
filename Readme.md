@@ -1,4 +1,4 @@
-# Soufiane Boursen
+# Soufiane B.
 
 **Software Engineering · Applied AI · Product Development**
 
